@@ -23,6 +23,20 @@ A developer who loves working with Data Structures and Algorithms (DSA) 🧩, or
 ![](https://github-profile-trophy.vercel.app/?username=dhruvasnayak&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
+## 📊 GitHub Stats:
+<p align="center" style="text-decoration: none !important;color:none;">
+ <a href="https://github-readme-stats.vercel.app/api?username=dhruvasnayak&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=dhruvasnayak&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+ </a>
+ <a href="https://github-readme-streak-stats.herokuapp.com/?user=dhruvasnayak&theme=dark&hide_border=false">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvasnayak&theme=dark&hide_border=false" alt="GitHub Streaks" />
+ </a>
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvasnayak&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvasnayak&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+ </a>
+</p>
+
+
 ## 🌐 Socials:
 <p align="center" style="text-decoration: none !important;color:none;">
 <a href="https://instagram.com/dhruv19o5">
