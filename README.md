@@ -40,7 +40,7 @@ A developer who loves working with Data Structures and Algorithms (DSA) 🧩, or
 </p>
 <hr>
 <p align="center" >
-<img alt="views" src="https://komarev.com/ghpvc/?username=Ashenoy64&&style=for-the-badge" />
+<img alt="views" src="https://komarev.com/ghpvc/?username=dhruvasnayak&&style=for-the-badge" />
 </p>
 
 
