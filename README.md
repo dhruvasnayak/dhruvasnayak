@@ -38,9 +38,4 @@ A developer who loves working with Data Structures and Algorithms (DSA) 🧩, or
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" alt="Hackerrank" />
 </a>
 </p>
-<hr>
-<p align="center" >
-<img alt="views" src="https://komarev.com/ghpvc/?username=dhruvasnayak&&style=for-the-badge" />
-</p>
-
 
