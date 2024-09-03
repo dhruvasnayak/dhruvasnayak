@@ -18,3 +18,8 @@ A developer who loves working with Data Structures and Algorithms (DSA) 🧩, or
 ### Database & Cloud
 |![Postgres](https://skillicons.dev/icons?i=postgresql&theme=dark) | ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark) | ![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark) | ![AWS](https://skillicons.dev/icons?i=aws&theme=dark) | ![Mysql](https://skillicons.dev/icons?i=mysql&theme=dark)
 
+## 🏆 Trophies & Badges
+![](https://github-profile-trophy.vercel.app/?username=dhruvasnayak&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+[![An image of @dhruvasnayak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/@dhruvasnayak)](https://holopin.io/@dhruvasnayak#)
+
