@@ -1,6 +1,8 @@
 # Hey there! I'm Dhruva 👋
 
-A developer who loves working with Data Structures and Algorithms (DSA) 🧩, organizing databases 🗄️, and creating websites 🌐. Right now, I’m exploring the world of cloud computing ☁️ to learn new things and grow my skills 🚀. I enjoy solving tricky problems and building cool stuff, one step at a time! 💻✨
+🎓 B.Tech in Computer Science @ PES University 📍 Bengaluru, India
+
+I’m a developer who loves Data Structures and Algorithms (DSA) 🧩, computer fundamentals 💻, and building websites 🌐. Right now, I’m diving into cloud computing ☁️ to pick up new skills and see what’s out there 🚀.
 
 
 ## 💻 Tech Stack: 
